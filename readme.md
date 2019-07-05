@@ -1,14 +1,7 @@
 # ES6 WDD 318 - SAE Zürich
 ##### Author: Martin Hutchings
 ##### :exclamation: Everything is commented so that you can review the code at your own pace :exclamation:
----
-## Table of contents
-|Topic   |Link   |
-| ---   | ---   |
-|:one:    |[ES6 01](https://github.com/stribis/javascript_wdd918#calendar-week-1)|
-|:two:   |[coming soon](#)|
-|:three:   |[coming soon](#)|
-|:four:   |[coming soon](#)|
+
 
 ---
 ### :calendar: Week 1
