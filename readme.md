@@ -26,3 +26,24 @@
 * :hammer_and_wrench: Exercises
   1. Receipt with template strings
 ---
+### :calendar: Week 2
+#### Day 1
+* :notebook: Lesson
+  1. Destructuring objects.
+  2. Object Literal Enhancement
+  3. Spread operator
+  4. Classes
+* :hammer_and_wrench: Exercises
+  1. Created our own classes
+#### Day 2
+* :notebook: Lesson
+  1. Async JS and how it works
+  2. Understanding the JS V8 Engine
+  3. XML HTTP Request
+  4. Jquery Ajax
+  5. Fetch (`then()`)
+  6. Async Await (`async function ()`)
+  7. Libraries (Axios)
+* :hammer_and_wrench: Exercises
+  1. Created an awesome list of frieds using an API
+---
